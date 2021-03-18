@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7cbd2b01-e6b7-436c-ac8b-3e45121f8852",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 76,
+  "height": 183,
+  "platformSettings": {},
+  "subMetas": {
+    "nokia": {
+      "ver": "1.0.4",
+      "uuid": "b6e4661b-1629-4389-b6c3-f56f9b050a08",
+      "rawTextureUuid": "7cbd2b01-e6b7-436c-ac8b-3e45121f8852",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 76,
+      "height": 183,
+      "rawWidth": 76,
+      "rawHeight": 183,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0e2575a2-7a68-4670-ab8d-3fce4a5d3fb8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 76,
+  "height": 183,
+  "platformSettings": {},
+  "subMetas": {
+    "手机版帝国时代3源码-诺基亚 n95(nokia_n95)_爱给网_aigei_com": {
+      "ver": "1.0.4",
+      "uuid": "0e212dfb-9fb6-4f82-895e-ab6b7e88c993",
+      "rawTextureUuid": "0e2575a2-7a68-4670-ab8d-3fce4a5d3fb8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 76,
+      "height": 183,
+      "rawWidth": 76,
+      "rawHeight": 183,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

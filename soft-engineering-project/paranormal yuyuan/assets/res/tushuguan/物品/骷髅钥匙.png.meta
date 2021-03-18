@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "13a6d662-f63e-41b6-a3b8-bac37df6cb73",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 99,
+  "height": 99,
+  "platformSettings": {},
+  "subMetas": {
+    "骷髅钥匙": {
+      "ver": "1.0.4",
+      "uuid": "2cb443cd-255b-4897-a01f-209ca32bda5f",
+      "rawTextureUuid": "13a6d662-f63e-41b6-a3b8-bac37df6cb73",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 21,
+      "trimY": 0,
+      "width": 56,
+      "height": 99,
+      "rawWidth": 99,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

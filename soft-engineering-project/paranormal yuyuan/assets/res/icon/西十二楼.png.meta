@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dbbc2281-c473-4dec-9e46-108acd80efe6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 181,
+  "height": 311,
+  "platformSettings": {},
+  "subMetas": {
+    "西十二楼": {
+      "ver": "1.0.4",
+      "uuid": "a2bc79be-685d-45af-9c2e-ec8143c86932",
+      "rawTextureUuid": "dbbc2281-c473-4dec-9e46-108acd80efe6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 181,
+      "height": 311,
+      "rawWidth": 181,
+      "rawHeight": 311,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
